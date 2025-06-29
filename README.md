@@ -1,4 +1,5 @@
 # GainSec in the Middle (G.I.T.M)
+![Carrier](https://gainsec.com/wp-content/uploads/2025/06/knd-carrier.jpg)
 
 * Current Version: 1.0
 
