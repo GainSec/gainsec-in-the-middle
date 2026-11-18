@@ -1,0 +1,21 @@
+{
+  "profile": "dv-g3b-emsign",
+  "name": "EM DV TLS CA - G3B",
+  "usage": "tls",
+  "issued_by": "emSign Root TLS CA - G3",
+  "certificate_sha256": "42C4ACCD12C4F59597925E1A08A7A90102608543809308D50EC427E118BA1493",
+  "spki_sha256": "EBED6475C2C2D80FCB199F3FE8DD6E6B3CE60B77EB15D4E42C3DEC0C6F5B5105",
+  "subject_key_identifier": "E21E2FE71C19390E554B62C120245735248A2514",
+  "revocation": {
+    "status": "revoked",
+    "date": "2026-10-18T09:24:32Z",
+    "reason": "ca_compromise",
+    "crl_url": "http://crl.emsign.com/?roottlscag3.crl"
+  },
+  "source_certificates": "https://github.com/galadran/we-have-a-problem.com",
+  "source_keys": "https://github.com/Fluepke/emudrahahahahaha",
+  "source_commits": {
+    "certificates": "5dee4188cfa58899470c18a9938d4146ddbe4130",
+    "keys": "c43b3f08ac8a2e27f57fa79c9530f3984034dc8b"
+  }
+}

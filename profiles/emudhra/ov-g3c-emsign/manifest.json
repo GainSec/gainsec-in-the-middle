@@ -1,0 +1,21 @@
+{
+  "profile": "ov-g3c-emsign",
+  "name": "EM OV TLS CA - G3C",
+  "usage": "tls",
+  "issued_by": "emSign Root TLS CA - G3",
+  "certificate_sha256": "CB6E15165AC802E9B3F993F16C25D41F4E81C21EBDE71AE1B012AC00BF9C7C3F",
+  "spki_sha256": "63ECEFEE431D49523BC1136C4E72D0206A477086CAF606CD5CF025686C109CF8",
+  "subject_key_identifier": "34EAEA0CEBC90ADAF9D0C5E2ED9B78C9879E1B6C",
+  "revocation": {
+    "status": "revoked",
+    "date": "2026-10-18T09:38:46Z",
+    "reason": "ca_compromise",
+    "crl_url": "http://crl.emsign.com/?roottlscag3.crl"
+  },
+  "source_certificates": "https://github.com/galadran/we-have-a-problem.com",
+  "source_keys": "https://github.com/Fluepke/emudrahahahahaha",
+  "source_commits": {
+    "certificates": "5dee4188cfa58899470c18a9938d4146ddbe4130",
+    "keys": "c43b3f08ac8a2e27f57fa79c9530f3984034dc8b"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "profile": "ev-g3c-aaa",
+  "name": "EM EV TLS CA - G3C",
+  "usage": "tls",
+  "issued_by": "AAA Certificate Services",
+  "certificate_sha256": "FD9D5C2DBBD4995AB69B8D50C439D9527B00529199C2FD01B2174EB58F07021F",
+  "spki_sha256": "5C0660A2B164910D8FF589C18E14552E9E0EC237DCEFE2CB736D41A4811F81A0",
+  "subject_key_identifier": "A6255E80A94DB7F3967C1BC791DF92BCEE4BEB5F",
+  "revocation": {
+    "status": "revoked",
+    "date": "2026-10-19T10:35:36Z",
+    "reason": "ca_compromise",
+    "crl_url": "http://crl.comodoca.com/AAACertificateServices.crl"
+  },
+  "source_certificates": "https://github.com/galadran/we-have-a-problem.com",
+  "source_keys": "https://github.com/Fluepke/emudrahahahahaha",
+  "source_commits": {
+    "certificates": "5dee4188cfa58899470c18a9938d4146ddbe4130",
+    "keys": "c43b3f08ac8a2e27f57fa79c9530f3984034dc8b"
+  }
+}

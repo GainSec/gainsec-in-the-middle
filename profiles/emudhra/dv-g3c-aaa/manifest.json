@@ -1,0 +1,21 @@
+{
+  "profile": "dv-g3c-aaa",
+  "name": "EM DV TLS CA - G3C",
+  "usage": "tls",
+  "issued_by": "AAA Certificate Services",
+  "certificate_sha256": "62B7F9868263F72F6911FC78CEAF72C1979158B7368BF648683BB2AA39B02E72",
+  "spki_sha256": "49DD353DC2B919A3770645117D0E60C16115E7D1BC259EEFE734B00EA434FE5F",
+  "subject_key_identifier": "AE7E105C3C2996C1A847270559F1E03DD4E50AF3",
+  "revocation": {
+    "status": "revoked",
+    "date": "2026-10-19T10:35:36Z",
+    "reason": "ca_compromise",
+    "crl_url": "http://crl.comodoca.com/AAACertificateServices.crl"
+  },
+  "source_certificates": "https://github.com/galadran/we-have-a-problem.com",
+  "source_keys": "https://github.com/Fluepke/emudrahahahahaha",
+  "source_commits": {
+    "certificates": "5dee4188cfa58899470c18a9938d4146ddbe4130",
+    "keys": "c43b3f08ac8a2e27f57fa79c9530f3984034dc8b"
+  }
+}
